@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL" type="wsl" uuid="280e9f99-41e3-4f26-90f8-701d9ce70bdb">
+        <config>
+          <option name="distributionMsId" value="Ubuntu-24.04" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="homePath" value="/home/guilherf13/.jdks/jbr-17.0.12" />
+          </config>
+        </ContributedStateBase>
+        <ContributedStateBase type="MavenRuntime">
+          <config>
+            <option name="homePath" value="/mnt/c/Users/guilh/Documents/apache-maven-3.9.8-bin/apache-maven-3.9.8" />
+            <option name="versionString" value="3.9.8" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
